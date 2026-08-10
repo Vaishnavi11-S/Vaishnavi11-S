@@ -6,7 +6,7 @@
 
 ---
 </div>
-🎓 **Computer Science Engineering Student** with a focus on **Java Full Stack Development, AI, and Problem Solving**.
+🎓 Computer Science Engineering Student with a focus on Java Full Stack Development, AI, and Problem Solving.
 
 From writing my first line of code to building complete applications, I’m constantly exploring, experimenting, and turning challenges into opportunities to create something better.
 
@@ -135,51 +135,50 @@ From writing my first line of code to building complete applications, I’m cons
 
 ### 🏥 MediAssist AI
 
-**Intelligent Symptom Assessment & Healthcare Guidance System**
+**`AI × Healthcare × Full Stack`**
 
-An AI-powered healthcare platform designed to provide intelligent symptom analysis, health guidance, appointment booking, hospital discovery, medical reports, health tips, and emergency assistance.
+> Turning everyday health concerns into a smarter digital healthcare experience.
 
-**Tech Stack**
+🧩 **What it brings together**
+`🩺 Symptom Assessment` `📅 Appointments` `🏥 Hospital Discovery` `📄 Medical Reports` `💡 Health Guidance`
 
-`React.js` `Tailwind CSS` `Java 21` `Spring Boot` `MongoDB Atlas` `Gemini AI` `JWT` `Docker`
+⚙️ **Built With**
+`React.js` `Java` `Spring Boot` `MongoDB` `Gemini API`
 
-🔗 **Repository:** [View Project](YOUR_MEDIASSIST_REPO_URL)
-
----
-
-### 🤖 AI Powered Student Internship Platform
-
-An AI-powered platform designed to recommend suitable internship opportunities to students based on their skills and interests.
-
-**Tech Stack**
-
-`Java` `Spring Boot` `React.js` `MongoDB` `AI`
-
-🔗 **Repository:** [View Project](https://github.com/Vaishnavi11-S/Ai-Powered-placementpre)
+🔗 **[View Repository](YOUR_MEDIASSIST_REPO_URL)**
 
 ---
 
 ### 🧑‍🎓 AI Student Assistant
 
-An intelligent academic assistant designed to help students with study-related questions using AI and Retrieval-Augmented Generation.
+**`AI × Learning × Smart Assistance`**
 
-**Tech Stack**
+> A digital study companion built to make finding answers and learning from information simpler.
 
-`Python` `Streamlit` `LangChain` `RAG` `Vector Database`
+🧩 **Core Idea**
+`❓ Ask` → `🔍 Retrieve` → `🤖 Understand` → `💬 Respond`
 
-🔗 **Repository:** [View Project](YOUR_AI_ASSISTANT_REPO_URL)
+⚙️ **Built With**
+`Python` `Streamlit` `Gemini API`
+
+🔗 **[View Repository](YOUR_AI_ASSISTANT_REPO_URL)**
 
 ---
 
 ### 📚 Placement Preparation Platform
 
-A student-focused platform designed to support placement preparation through coding practice, aptitude preparation, structured learning, and AI-powered assistance.
+**`Learning × Practice × Placement`**
 
-**Tech Stack**
+> Bringing the essential pieces of placement preparation into one focused learning space.
 
+🧩 **Core Modules**
+`💻 Coding` `🧠 Aptitude` `📖 Learning` `🎯 Preparation`
+
+⚙️ **Built With**
 `Java` `Spring Boot` `React.js` `MongoDB`
 
-🔗 **Repository:** [View Project](YOUR_PLACEMENT_REPO_URL)
+🔗 **[View Repository](YOUR_PLACEMENT_REPO_URL)**
+
 
 ---
 
