@@ -28,8 +28,12 @@ From writing my first line of code to building complete applications, I’m cons
 <img src="https://img.shields.io/badge/💻%20GitHub-My%20Repositories-181717?style=for-the-badge&logo=github" />
 </a>
 
-<a href="YOUR_LINKEDIN_URL">
+<a href="https://www.linkedin.com/in/vaishnavi-s-253284375/?skipRedirect=true">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
+</a>
+
+<a href="https://leetcode.com/u/vaishnavishanmuga/">
+<img src="https://img.shields.io/badge/🧠%20LeetCode-Solve%20Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
 </a>
 
 </div>
@@ -446,7 +450,7 @@ Curious by nature • Builder by choice • Problem solver by practice
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-<a href="YOUR_LINKEDIN_URL">
+<a href="https://www.linkedin.com/in/vaishnavi-s-253284375/?skipRedirect=true">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
