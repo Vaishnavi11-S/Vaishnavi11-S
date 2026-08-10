@@ -160,15 +160,27 @@ Algorithms          ███████████░░░░░░
 
 ---
 
-# 📊 GitHub Stats
+# ⚡ Developer Snapshot
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vaishnavi11-S&show_icons=true&theme=tokyonight&hide_border=true)
+| 💻 Focus | 🚀 Building | 🤖 Exploring |
+|:---:|:---:|:---:|
+| Java & Spring Boot | Full Stack Apps | AI Applications |
+| REST APIs | React Interfaces | Gemini API |
+| DSA & Problem Solving | MongoDB / MySQL | Generative AI |
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vaishnavi11-S&layout=compact&theme=tokyonight&hide_border=true)
+</div>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Vaishnavi11-S&theme=tokyonight&hide_border=true)
+<br>
+
+<div align="center">
+
+### 📈 My GitHub Journey
+
+**Building projects • Solving problems • Learning every day**
+
+`Java` `Spring Boot` `React` `MongoDB` `MySQL` `AI`
 
 </div>
 
