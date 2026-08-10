@@ -1,38 +1,20 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Java+Full+Stack+Developer;AI+Builder;Problem+Solver;Building+%7C+Learning+%7C+Growing+%F0%9F%9A%80" />
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=120&text=VAISHNAVI&fontSize=50&fontColor=7DD3FC&fontAlignY=55&animation=twinkling" />
 
-<h3>💻 Java Full Stack Developer | 🤖 AI Builder | 🧠 Problem Solver</h3>
+ 🧠 Think in Logic | ☕ Build in Java | 🤖 Experiment with AI
 
-<p>
-  <img src="https://komarev.com/ghpvc/?username=Vaishnavi11-S&label=Profile%20Views&color=36BCF7&style=flat" />
-</p>
+---
+</div>
+🎓 **Computer Science Engineering Student** with a focus on **Java Full Stack Development, AI, and Problem Solving**.
+
+From writing my first line of code to building complete applications, I’m constantly exploring, experimenting, and turning challenges into opportunities to create something better.
+
+<div align="center">
+
+`💡 IDEATE` → `☕ CODE` → `🧩 SOLVE` → `🤖 INNOVATE` → `🚀 BUILD`
 
 </div>
-
----
-
-## 👋 Hey, I'm Vaishnavi
-
-🎓 Computer Science Engineering Student passionate about **Java Full Stack Development, Artificial Intelligence, and Problem Solving**.
-
-I enjoy turning ideas into real-world applications and continuously improving my development and problem-solving skills.
-
-```text
-LEARN
-  ↓
-BUILD
-  ↓
-DEBUG
-  ↓
-IMPROVE
-  ↓
-DEPLOY
-  ↓
-GROW 🚀
-```
-
----
 
 ## 🌐 Quick Access
 
