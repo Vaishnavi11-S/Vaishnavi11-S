@@ -1,11 +1,13 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=120&text=VAISHNAVI&fontSize=50&fontColor=7DD3FC&fontAlignY=55&animation=twinkling" />
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=120&text=Hey%20there!%20I'm%20VAISHNAVI&fontSize=50&fontColor=7DD3FC&fontAlignY=55&animation=twinkling" />
 
- 🧠 Think in Logic | ☕ Build in Java | 🤖 Experiment with AI
+🧠 Think in Logic | ☕ Build in Java | 🤖 Experiment with AI
+
+
+</div>
 
 ---
-</div>
 🎓 Computer Science Engineering Student with a focus on Java Full Stack Development, AI, and Problem Solving.
 
 From writing my first line of code to building complete applications, I’m constantly exploring, experimenting, and turning challenges into opportunities to create something better.
@@ -403,15 +405,13 @@ Algorithms
 
 </div>
 
-## 🔥 GitHub Streak
+## 🔥 GitHub Activity
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=Vaishnavi11-S&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Vaishnavi11-S&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
 
 </div>
-
----
 
 ## 🐍 GitHub Contribution Journey
 
